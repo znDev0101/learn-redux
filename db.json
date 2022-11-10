@@ -1,0 +1,19 @@
+{
+  "Contacts": [
+    {
+      "id": 2,
+      "nama": "Doddy",
+      "nomor": "08128483481"
+    },
+    {
+      "nama": "rara",
+      "nomor": "0813828585",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nama": "salsabila",
+      "nomor": "081248382482"
+    }
+  ]
+}
